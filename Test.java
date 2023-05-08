@@ -6,12 +6,20 @@ class Bluetooth_and_WIFI_Connection {
     }
 }
 
-class AirQualitySensor {
-    public Map<String, Double> readData() {
+class Buzzer {
+    public Map<String, Double> buzz() {
         // return statement should be modified
         return null;
 
     }
+}
+
+class AirQualitySensor {
+    public Map<String, Double> readData() {
+        // return statement should be modified
+        return null;
+    }
+
 }
 
 public class Test {
